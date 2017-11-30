@@ -1,11 +1,9 @@
 # OCR_WinForm
 OCR using Tesseract 3.04 version
 
-#--- How to Use
-
-===============================================
+-------------------------------------
 Dot net 4.5.2, Visual Studion 2013 C#
-===============================================
+-------------------------------------
 
 1. Prepare tessdata
     C:\Tesseract-OCR\tessdata
